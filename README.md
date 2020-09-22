@@ -1,2 +1,3 @@
 # Data-Science-intensive
-Data Science intensive
+
+примеры с самого первого интенсива от skillfactory
